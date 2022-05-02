@@ -1,0 +1,6 @@
+cffi==1.15.0
+PyAudio==0.2.11
+pycparser==2.21
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+vosk==0.3.37
